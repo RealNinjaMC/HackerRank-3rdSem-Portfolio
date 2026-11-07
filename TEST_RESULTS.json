@@ -1,0 +1,71 @@
+{
+  "checked_utc": "2026-11-07T06:30:21.902819+00:00",
+  "results": [
+    {
+      "problem": "Diagonal Difference",
+      "function_checks": 4,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Dynamic Array",
+      "function_checks": 4,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Time Conversion",
+      "function_checks": 5,
+      "stdin_stdout_cases": 3,
+      "status": "Passed"
+    },
+    {
+      "problem": "Compare the Triplets",
+      "function_checks": 5,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Sparse Arrays",
+      "function_checks": 4,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Arrays - DS",
+      "function_checks": 3,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "2D Array - DS",
+      "function_checks": 3,
+      "stdin_stdout_cases": 1,
+      "status": "Passed"
+    },
+    {
+      "problem": "Left Rotation",
+      "function_checks": 3,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Array Manipulation",
+      "function_checks": 3,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "Simple Array Sum",
+      "function_checks": 3,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    },
+    {
+      "problem": "A Very Big Sum",
+      "function_checks": 3,
+      "stdin_stdout_cases": 2,
+      "status": "Passed"
+    }
+  ]
+}

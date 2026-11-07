@@ -16,4 +16,7 @@ The return order is Alice then Bob. The tests distinguish a tie from a win and i
 5 local function checks plus 2 full stdin/stdout cases. Run `python run_tests.py` from the repository root. `solution.cpp` is a complete program: paste the entire file into HackerRank using C++11; LOCAL_TEST is not defined by the judge.
 
 ## Online result
-Awaiting verified submission.
+Full score: 10 points. All 8 displayed test cases passed on 7 November 2026.
+
+- [Verified submission](https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/486762189)
+- [Genuine success screenshot](accepted.jpg)

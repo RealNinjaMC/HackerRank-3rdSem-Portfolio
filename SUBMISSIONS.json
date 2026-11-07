@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "diagonal-difference",
+    "status": "Success",
+    "score": 10,
+    "url": "https://www.hackerrank.com/challenges/diagonal-difference/submissions/code/486762075",
+    "passed": 11
+  },
+  {
+    "slug": "dynamic-array",
+    "status": "Success",
+    "score": 15,
+    "passed": 11,
+    "url": "https://www.hackerrank.com/challenges/dynamic-array/submissions/code/486762098"
+  },
+  {
+    "slug": "time-conversion",
+    "status": "Success",
+    "score": 15,
+    "passed": 10,
+    "url": "https://www.hackerrank.com/challenges/time-conversion/submissions/code/486762131"
+  },
+  {
+    "slug": "compare-the-triplets",
+    "status": "Success",
+    "score": 10,
+    "passed": 8,
+    "url": "https://www.hackerrank.com/challenges/compare-the-triplets/submissions/code/486762189"
+  },
+  {
+    "slug": "sparse-arrays",
+    "status": "Success",
+    "score": 25,
+    "passed": 13,
+    "url": "https://www.hackerrank.com/challenges/sparse-arrays/submissions/code/486762215"
+  },
+  {
+    "slug": "arrays-ds",
+    "status": "Success",
+    "score": 10,
+    "passed": 9,
+    "url": "https://www.hackerrank.com/challenges/arrays-ds/submissions/code/486762255"
+  },
+  {
+    "slug": "2d-array",
+    "status": "Success",
+    "score": 15,
+    "passed": 9,
+    "url": "https://www.hackerrank.com/challenges/2d-array/submissions/code/486762297"
+  },
+  {
+    "slug": "array-left-rotation",
+    "status": "Success",
+    "score": 20,
+    "passed": 10,
+    "url": "https://www.hackerrank.com/challenges/array-left-rotation/submissions/code/486762323"
+  },
+  {
+    "slug": "crush",
+    "status": "Success",
+    "score": 60,
+    "passed": 16,
+    "url": "https://www.hackerrank.com/challenges/crush/submissions/code/486762358"
+  },
+  {
+    "slug": "simple-array-sum",
+    "status": "Success",
+    "score": 10,
+    "passed": 3,
+    "url": "https://www.hackerrank.com/challenges/simple-array-sum/submissions/code/486762421"
+  },
+  {
+    "slug": "a-very-big-sum",
+    "status": "Success",
+    "score": 10,
+    "passed": 2,
+    "url": "https://www.hackerrank.com/challenges/a-very-big-sum/submissions/code/486762453"
+  }
+]
